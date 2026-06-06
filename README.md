@@ -165,12 +165,6 @@ Suggested workflow:
 
 ---
 
-## License
-
-This repository includes an MIT `LICENSE` file. Update or change the license if you plan to publish under a different license.
-
----
-
 ## Acknowledgements
 
 Built by Vishnu.
